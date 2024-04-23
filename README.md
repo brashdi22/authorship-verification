@@ -1,8 +1,3 @@
-# Authorship Verification
-
----
-{}
----
 language: en
 license: cc-by-4.0
 tags:
@@ -34,13 +29,11 @@ This model is based on the ADHOMINEM (Attention-based Deep network architecture
 - **Language(s):** English
 - **Model type:** Supervised
 - **Model architecture:** DNN
-- **Finetuned from model [optional]:** [More Information Needed]
 
 ### Model Resources
 
 <!-- Provide links where applicable. -->
 
-- **Repository:** [More Information Needed]
 - **Paper or documentation:** https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9005650
 
 ## Training Details
