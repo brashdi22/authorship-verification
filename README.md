@@ -9,7 +9,7 @@ repo: https://github.com/brashdi22/authorship-verification
 
 ---
 
-# Model Card for r88993ia-j09180ga-AV
+# Model Card for AV
 
 <!-- Provide a quick summary of what the model is/does. -->
 
